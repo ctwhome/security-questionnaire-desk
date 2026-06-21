@@ -65,4 +65,4 @@ Page: https://ctwhome.github.io/security-questionnaire-desk/
 
 ## Outreach rule
 
-Do not send from Venture Projects without Curi-approved sender identity, final contact email/form, and exact channel. Public page currently uses `pilot@example.com` as a placeholder.
+Do not send from Venture Projects without Curi-approved sender identity, final contact email/form, and exact channel. Public page currently uses `ctw@ctwhome.com` as a placeholder.

@@ -26,4 +26,4 @@ $49–$199 per questionnaire pack, then $19–$49/month for answer-library reuse
 
 ## Outreach status
 
-Public landing page scaffold created. Replace the temporary `pilot@example.com` CTA with a Curi-approved email/form before active outreach.
+Public landing page scaffold created. CTA uses ctw@ctwhome.com. Replace with a dedicated form later if conversion volume warrants it.
