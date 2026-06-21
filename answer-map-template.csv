@@ -1,0 +1,4 @@
+Question ID,Question,Theme,Draft Answer,Confidence,Owner,Do Not Claim?,Evidence Needed,Reusable Library Entry?,Notes
+Q-001,"Paste customer questionnaire row here",Access control,"Use approved answer-library text or leave blank until owner verifies",Needs owner,Founder/Engineer,No,"Policy link / screenshot / system setting",Yes,"Never invent a control. Mark unknowns clearly."
+Q-002,"Do you have SOC 2?",Compliance,"We do not claim certification unless current report exists.",Do not claim,Founder,Yes,"Current report or explicit no",Yes,"If no SOC2, answer honestly and offer compensating context only if verified."
+Q-003,"Describe encryption in transit",Data security,"All customer-facing application traffic uses TLS; exact version/configuration needs owner verification.",Needs owner,Engineer,No,"TLS config/source documentation",Yes,"Replace draft with verified technical detail before sending."

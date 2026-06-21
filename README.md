@@ -14,9 +14,13 @@ Security questionnaires block deals and consume founder/engineer weekends throug
 
 Questionnaire import → reusable answer library → confidence flags → export back to spreadsheet/doc. No SOC2 automation, legal advice, compliance certification, or invented claims.
 
-## Price hypothesis
+## Launch offer
 
-$49–$199 per questionnaire pack, then $19–$49/month for answer-library reuse.
+$99 for one redacted questionnaire pack: answer-library starter, first-draft response map, confidence flags, and follow-up questions for the few answers only the team can verify.
+
+Lightweight product artifact: `answer-map-template.csv` demonstrates the response-map shape and the no-invention guardrail.
+
+Target product pricing remains $19–$49/month for answer-library reuse after the manual pack proves the workflow.
 
 ## Evidence basis
 
