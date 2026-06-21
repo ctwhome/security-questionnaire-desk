@@ -1,6 +1,6 @@
 # Security Questionnaire Desk Client Reachout Pack
 
-Status: ready for first validation outreach once the CTA email/form is replaced.
+Status: ready for first business-development outreach. CTA email is live.
 
 Public page: https://ctwhome.github.io/security-questionnaire-desk/
 Repo: https://github.com/ctwhome/security-questionnaire-desk
@@ -53,11 +53,11 @@ Subject: Security questionnaire eating founder time?
 
 Hi {{first_name}},
 
-I’m validating a tiny answer desk for B2B SaaS teams that are too early for a full GRC platform but still get deal-blocking customer security questionnaires.
+I’m building a cheaper, narrower alternative for B2B SaaS teams that are too early for a full GRC platform but still get deal-blocking customer security questionnaires.
 
 The first version is not SOC2 automation and it does not invent compliance claims. It is narrower: turn one questionnaire into a reusable answer library, mark unknowns clearly, and export a clean first-draft response map.
 
-Have you had a customer security questionnaire block a deal or eat an engineer/founder weekend recently? If yes, I’m looking for 5 pilot teams with a redacted questionnaire.
+Have you had a customer security questionnaire block a deal or eat an engineer/founder weekend recently? If yes, the launch offer is simple: send one redacted questionnaire and get a reusable answer map plus first-draft response structure.
 
 Page: https://ctwhome.github.io/security-questionnaire-desk/
 
@@ -65,4 +65,4 @@ Page: https://ctwhome.github.io/security-questionnaire-desk/
 
 ## Outreach rule
 
-Do not send from Venture Projects without Curi-approved sender identity, final contact email/form, and exact channel. Public page currently uses `ctw@ctwhome.com` as a placeholder.
+Do not send from Venture Projects without Curi-approved sender identity and exact channel. Public page currently uses live contact email `ctw@ctwhome.com`.
