@@ -2,6 +2,8 @@
 
 Purpose: give Curi an approval-ready first revenue batch without sending anything. Use this to manually find founders/operators already talking about customer security questionnaires, then approve one sender/channel/copy before outreach.
 
+Worksheet artifact: `first-batch-prospect-worksheet-2026-06-22.csv` turns the queues below into 10 fill-in no-send slots with fit checks, disqualifiers, channel/draft mapping, and contact-note fields.
+
 ## Batch thesis
 
 Target people who show a live or recent trigger: early B2B SaaS sales, customer security review, vendor questionnaire, SOC2-readiness pressure, or founder/engineer time spent on spreadsheets. The offer is not a GRC platform: it is one redacted questionnaire turned into an answer-library starter + first-draft response map for $99.
