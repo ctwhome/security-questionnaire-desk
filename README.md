@@ -31,3 +31,8 @@ Target product pricing remains $19–$49/month for answer-library reuse after th
 ## Outreach status
 
 Public landing page scaffold created. CTA uses ctw@ctwhome.com. Replace with a dedicated form later if conversion volume warrants it.
+
+Business-development artifacts:
+
+- `outreach.md` — channel-specific drafts, guardrails, redaction checklist, qualification questions.
+- `prospect-source-pack-2026-06-22.md` — no-send source queues and an approval-ready first batch request for 10 manually qualified prospects.
