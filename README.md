@@ -35,4 +35,5 @@ Public landing page scaffold created. CTA uses ctw@ctwhome.com. Replace with a d
 Business-development artifacts:
 
 - `outreach.md` — channel-specific drafts, guardrails, redaction checklist, qualification questions.
+- `redaction-checklist.html` — public safe-intake checklist and prefilled CTA for redacted questionnaire packs.
 - `prospect-source-pack-2026-06-22.md` — no-send source queues and an approval-ready first batch request for 10 manually qualified prospects.
