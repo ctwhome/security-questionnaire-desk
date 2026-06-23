@@ -70,4 +70,4 @@ If they ask whether this provides compliance approval:
 - 10 worksheet rows filled with public signal, contact route, personalization note, and disqualifier check.
 - Curi approves sender/channel/copy.
 - Messages sent only after approval.
-- Replies routed into the $99 redacted-questionnaire launch pack.
+- Replies routed into the $99 redacted-questionnaire launch pack using `first-paid-delivery-kit-2026-06-23.md` for intake, fulfillment, and delivery guardrails.
