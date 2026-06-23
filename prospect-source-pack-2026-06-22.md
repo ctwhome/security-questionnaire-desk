@@ -2,7 +2,7 @@
 
 Purpose: give Curi an approval-ready first revenue batch without sending anything. Use this to manually find founders/operators already talking about customer security questionnaires, then approve one sender/channel/copy before outreach.
 
-Worksheet artifact: `first-batch-prospect-worksheet-2026-06-22.csv` turns the queues below into 10 fill-in no-send slots with fit checks, disqualifiers, channel/draft mapping, and contact-note fields.
+Worksheet artifact: `first-batch-prospect-worksheet-2026-06-22.csv` turns the queues below into 10 fill-in no-send slots with fit checks, disqualifiers, channel/draft mapping, and contact-note fields. Approval artifact: `approval-request-2026-06-23.md` contains the exact sender/channel/copy request and first-reply script for Curi to approve before any outreach.
 
 ## Batch thesis
 

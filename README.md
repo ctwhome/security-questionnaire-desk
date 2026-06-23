@@ -38,3 +38,4 @@ Business-development artifacts:
 - `redaction-checklist.html` — public safe-intake checklist and prefilled CTA for redacted questionnaire packs.
 - `prospect-source-pack-2026-06-22.md` — no-send source queues and an approval-ready first batch request for 10 manually qualified prospects.
 - `first-batch-prospect-worksheet-2026-06-22.csv` — fill-in worksheet for the first 10 no-send prospect slots, preloaded with source queues, fit checks, disqualifiers, and draft mapping.
+- `approval-request-2026-06-23.md` — approval-ready batch request with exact sender/channel/copy guardrails and first-reply script.

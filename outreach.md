@@ -48,7 +48,7 @@ Do **not** say:
 
 ## First 30 lead-source searches
 
-Use these to build a contact list manually or via a lead-finding pass. The 2026-06-22 no-send source pack turns the highest-signal queues into an approval-ready first batch: `prospect-source-pack-2026-06-22.md`. The fill-in CSV for that batch is `first-batch-prospect-worksheet-2026-06-22.csv`.
+Use these to build a contact list manually or via a lead-finding pass. The 2026-06-22 no-send source pack turns the highest-signal queues into an approval-ready first batch: `prospect-source-pack-2026-06-22.md`. The fill-in CSV for that batch is `first-batch-prospect-worksheet-2026-06-22.csv`. The exact sender/channel/copy approval packet is `approval-request-2026-06-23.md`.
 
 1. `site:linkedin.com/in founder B2B SaaS security questionnaire`
 2. `site:linkedin.com/in founder SOC2 questionnaire startup`
